@@ -5,12 +5,12 @@ description: Aviso legal y datos de contacto de esta web.
 ---
 ## Responsable de esta web
 
-[Nombre y apellidos]
-[Calle y número]
-[Código postal y ciudad]
-[País]
+Moritz Breuer
+Goethestraße 19
+25421 Pinneberg
+Alemania
 
-**Correo electrónico:** [tu-email@example.com]
+**Correo electrónico:** [m.breuer2005@gmail.com](mailto:m.breuer2005@gmail.com)
 
 ## Descargo de responsabilidad
 

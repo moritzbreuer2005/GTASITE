@@ -20,4 +20,4 @@ Ce site affiche de la publicité et peut contenir des liens affiliés. Si vous a
 
 ## Contact
 
-Une erreur ou une info à partager ? Écrivez-nous : [votre-email@example.com]
+Une erreur ou une info à partager ? Écrivez-nous : [m.breuer2005@gmail.com](mailto:m.breuer2005@gmail.com)

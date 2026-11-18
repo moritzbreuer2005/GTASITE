@@ -10,18 +10,18 @@ Wer seine Privatadresse nicht zeigen will, kann einen Impressums-Service
 
 ## Angaben gemäß § 5 DDG
 
-[Vor- und Nachname]
-[Straße und Hausnummer]
-[PLZ und Ort]
+Moritz Breuer
+Goethestraße 19
+25421 Pinneberg
 Deutschland
 
 ## Kontakt
 
-**E-Mail:** [deine-email@example.com]
+**E-Mail:** [m.breuer2005@gmail.com](mailto:m.breuer2005@gmail.com)
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
-[Vor- und Nachname], Anschrift wie oben.
+Moritz Breuer, Anschrift wie oben.
 
 ## Haftung für Links
 

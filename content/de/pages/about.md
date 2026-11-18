@@ -20,4 +20,4 @@ Diese Seite zeigt Werbung und kann Affiliate-Links enthalten. Wenn du über eine
 
 ## Kontakt
 
-Fehler entdeckt oder einen Tipp? Schreib uns: [deine-email@example.com]
+Fehler entdeckt oder einen Tipp? Schreib uns: [m.breuer2005@gmail.com](mailto:m.breuer2005@gmail.com)

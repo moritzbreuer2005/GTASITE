@@ -20,4 +20,4 @@ This site shows ads and may include affiliate links. If you buy something throug
 ## Contact
 
 <!-- EDITOR NOTE: add a contact email here before applying for AdSense. -->
-Spotted a mistake or have a tip? Get in touch at: your-email@example.com
+Spotted a mistake or have a tip? Get in touch at: [m.breuer2005@gmail.com](mailto:m.breuer2005@gmail.com)

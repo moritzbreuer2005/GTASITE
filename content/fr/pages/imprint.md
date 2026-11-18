@@ -5,16 +5,16 @@ description: Mentions légales et coordonnées de ce site.
 ---
 ## Éditeur du site
 
-[Prénom et nom]
-[Numéro et rue]
-[Code postal et ville]
-[Pays]
+Moritz Breuer
+Goethestraße 19
+25421 Pinneberg
+Allemagne
 
-**E-mail :** [votre-email@example.com]
+**E-mail :** [m.breuer2005@gmail.com](mailto:m.breuer2005@gmail.com)
 
 ## Directeur de la publication
 
-[Prénom et nom]
+Moritz Breuer
 
 ## Avertissement
 

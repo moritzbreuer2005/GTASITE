@@ -6,7 +6,7 @@
 
   "adsense_client": "",
   "ad_slots": { "home_top": "", "sidebar": "", "in_article": "" },
-  "show_ad_placeholders": true,
+  "show_ad_placeholders": false,
 
   "amazon_tags": { "amazon.com": "", "amazon.de": "", "amazon.es": "", "amazon.fr": "" },
   "affiliate_links": {

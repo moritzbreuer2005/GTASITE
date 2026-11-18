@@ -20,4 +20,4 @@ Esta web muestra publicidad y puede incluir enlaces de afiliados. Si compras alg
 
 ## Contacto
 
-¿Has visto un error o tienes una pista? Escríbenos: [tu-email@example.com]
+¿Has visto un error o tienes una pista? Escríbenos: [m.breuer2005@gmail.com](mailto:m.breuer2005@gmail.com)

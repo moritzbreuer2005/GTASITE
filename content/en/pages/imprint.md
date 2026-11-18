@@ -8,16 +8,16 @@ Impressum (with the same details) is at /de/impressum/. -->
 
 ## Responsible for this website
 
-[Your full name]
-[Street and house number]
-[Postcode, city]
-[Country]
+Moritz Breuer
+Goethestraße 19
+25421 Pinneberg
+Germany
 
-**Email:** [your-email@example.com]
+**Email:** [m.breuer2005@gmail.com](mailto:m.breuer2005@gmail.com)
 
 ## Responsible for content
 
-[Your full name], address as above.
+Moritz Breuer, address as above.
 
 ## Disclaimer
 
