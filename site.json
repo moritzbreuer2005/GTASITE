@@ -1,0 +1,52 @@
+{
+  "name": "Wanted Level",
+  "base_url": "https://example.com",
+  "languages": ["en", "de", "es", "fr"],
+  "launch_date_local": "2026-11-19T00:00:00",
+
+  "adsense_client": "",
+  "ad_slots": { "home_top": "", "sidebar": "", "in_article": "" },
+  "show_ad_placeholders": true,
+
+  "amazon_tags": { "amazon.com": "", "amazon.de": "", "amazon.es": "", "amazon.fr": "" },
+  "affiliate_links": {
+    "en": [
+      { "label": "GTA 6 for PS5", "url": "https://www.amazon.com/s?k=grand+theft+auto+vi+ps5" },
+      { "label": "GTA 6 for Xbox Series X|S", "url": "https://www.amazon.com/s?k=grand+theft+auto+vi+xbox" },
+      { "label": "PS5 Pro console", "url": "https://www.amazon.com/s?k=ps5+pro" },
+      { "label": "Extra SSD storage for PS5", "url": "https://www.amazon.com/s?k=ps5+m.2+ssd+heatsink" }
+    ],
+    "de": [
+      { "label": "GTA 6 für PS5", "url": "https://www.amazon.de/s?k=grand+theft+auto+vi+ps5" },
+      { "label": "GTA 6 für Xbox Series X|S", "url": "https://www.amazon.de/s?k=grand+theft+auto+vi+xbox" },
+      { "label": "PS5 Pro Konsole", "url": "https://www.amazon.de/s?k=ps5+pro" },
+      { "label": "Zusätzliche SSD für die PS5", "url": "https://www.amazon.de/s?k=ps5+m.2+ssd+kuehlkoerper" }
+    ],
+    "es": [
+      { "label": "GTA 6 para PS5", "url": "https://www.amazon.es/s?k=grand+theft+auto+vi+ps5" },
+      { "label": "GTA 6 para Xbox Series X|S", "url": "https://www.amazon.es/s?k=grand+theft+auto+vi+xbox" },
+      { "label": "Consola PS5 Pro", "url": "https://www.amazon.es/s?k=ps5+pro" },
+      { "label": "SSD extra para PS5", "url": "https://www.amazon.es/s?k=ps5+ssd+m.2+disipador" }
+    ],
+    "fr": [
+      { "label": "GTA 6 sur PS5", "url": "https://www.amazon.fr/s?k=grand+theft+auto+vi+ps5" },
+      { "label": "GTA 6 sur Xbox Series X|S", "url": "https://www.amazon.fr/s?k=grand+theft+auto+vi+xbox" },
+      { "label": "Console PS5 Pro", "url": "https://www.amazon.fr/s?k=ps5+pro" },
+      { "label": "SSD supplémentaire pour PS5", "url": "https://www.amazon.fr/s?k=ps5+ssd+m.2+dissipateur" }
+    ]
+  },
+
+  "newsletter_url": "",
+  "google_site_verification": "",
+  "goatcounter_code": "",
+
+  "news_query": "\"GTA 6\" OR \"GTA VI\" OR \"Grand Theft Auto VI\"",
+  "news_editions": {
+    "en": "hl=en-US&gl=US&ceid=US:en",
+    "de": "hl=de&gl=DE&ceid=DE:de",
+    "es": "hl=es&gl=ES&ceid=ES:es",
+    "fr": "hl=fr&gl=FR&ceid=FR:fr"
+  },
+  "news_keywords": ["gta 6", "gta vi", "gta6", "grand theft auto vi", "grand theft auto 6", "rockstar", "leonida", "vice city"],
+  "max_headlines": 80
+}
